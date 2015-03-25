@@ -1,7 +1,7 @@
 <p align="center"><img src="http://i1192.photobucket.com/albums/aa340/Mekire/logo2.png" alt="" /></p> 
 
 
-** Unlike your common unilateral falling block games, 'Double Cross' implements a bidirectional paradigm expanding the genre in both dimension and difficulty. **
+**Unlike your common unilateral falling block games, 'Double Cross' implements a bidirectional paradigm expanding the genre in both dimension and difficulty.**
 
 
 [Game play video](http://www.youtube.com/embed/gP-9MVIKlT4?rel=0)
